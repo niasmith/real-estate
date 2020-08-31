@@ -58,7 +58,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-.logo img{
+.navbar-brand img{
   width:45px;
   height:45px;
 }
