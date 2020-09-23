@@ -17,5 +17,3 @@
 
 ![](picture-3.png)
 
-****
-#### Template curtesy of : https://startbootstrap.com/themes/agency/
